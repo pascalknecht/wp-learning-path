@@ -26,7 +26,7 @@ https://developer.wordpress.org/themes/basics/template-hierarchy/ --> Have a clo
 
 ## License
 
-This project is licensed under the terms of the [Apache 2.0](https://github.com/frontity/frontity/blob/master/LICENSE) license.
+This project is licensed under the terms of the Apache 2.0 license.
 
 ## Contribute
 
