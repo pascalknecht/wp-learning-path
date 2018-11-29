@@ -9,7 +9,7 @@ I will add more resources here whenever I encounter them.
 __Positioning__
 https://flexboxfroggy.com/#de
 
-__CSS ANIMATIONS__
+__CSS Animations__
 https://github.com/cssanimation/css-animation-101
 
 ### PHP
