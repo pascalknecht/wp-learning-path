@@ -17,7 +17,7 @@ __OOP__
 https://www.alainschlesser.com/
 
 ### Javascript
-__ES 6__
+__ES6__
 https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
 
 ### WordPress
