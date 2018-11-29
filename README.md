@@ -30,4 +30,4 @@ This project is licensed under the terms of the [Apache 2.0](https://github.com/
 
 ## Contribute
 
-Please take a look at our [Contribution Guide](https://github.com/frontity/contribute).
+Pull Requests are welcome!
