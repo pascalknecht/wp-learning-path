@@ -10,7 +10,7 @@ I will add more resources here whenever I encounter them.
 https://flexboxfroggy.com/#de
 
 ##### CSS Animations
-https://github.com/cssanimation/css-animation-101
+https://github.com/cssanimation/css-animation-101  
 https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
 
 ### PHP
