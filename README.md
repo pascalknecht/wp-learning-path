@@ -11,6 +11,7 @@ https://flexboxfroggy.com/#de
 
 __CSS Animations__
 https://github.com/cssanimation/css-animation-101
+https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
 
 ### PHP
 __OOP__
