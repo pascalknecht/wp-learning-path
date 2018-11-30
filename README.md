@@ -6,23 +6,23 @@ I will add more resources here whenever I encounter them.
 ### HTML 5
 
 ### CSS 3
-__Positioning__
+##### Positioning
 https://flexboxfroggy.com/#de
 
-__CSS Animations__
+##### CSS Animations
 https://github.com/cssanimation/css-animation-101
 https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
 
 ### PHP
-__OOP__
+##### OOP
 https://www.alainschlesser.com/
 
 ### Javascript
-__ES6__
+##### ES6
 https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
 
 ### WordPress
-__Template Hierarchy__
+##### Template Hierarchy
 https://developer.wordpress.org/themes/basics/template-hierarchy/ --> Have a close look at the visual overview
 
 ## License
