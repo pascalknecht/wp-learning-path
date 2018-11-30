@@ -7,11 +7,11 @@ I will add more resources here whenever I encounter them.
 
 ### CSS 3
 ##### Positioning
-https://flexboxfroggy.com/#de
+https://flexboxfroggy.com/#de  
+https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
 
 ##### CSS Animations
 https://github.com/cssanimation/css-animation-101  
-https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
 
 ### PHP
 ##### OOP
