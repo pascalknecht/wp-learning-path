@@ -25,6 +25,10 @@ https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50
 ##### Template Hierarchy
 https://developer.wordpress.org/themes/basics/template-hierarchy/ --> Have a close look at the visual overview
 
+### General
+##### Best practises
+https://engineering.hmn.md/standards/
+
 ## License
 
 This project is licensed under the terms of the Apache 2.0 license.
